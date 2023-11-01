@@ -27,5 +27,5 @@ Get a list of climate monitoring stations.
 /api/v1.0/<start> and /api/v1.0/<start>/<end>
 Calculate temperature statistics for specified date ranges. Handles date format validation.
 
-Contributing
+# Contributing
 Contributions are welcome! Report issues or submit pull requests.
